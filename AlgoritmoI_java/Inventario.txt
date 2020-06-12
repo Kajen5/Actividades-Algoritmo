@@ -1,0 +1,13 @@
+1	NOXNX200	ATX,MicroATX.	2xUSB_2.0,1xUSB3.0	300000	8
+1	NOXCoolb	MicroATX.	2xUSB2.0,1xUSB3.0	350000	33
+1	sasdf	asdf	ssdds_asdsdad_sss_dddd	50050	15
+1	sistema	estructura	conjunto_de_elementos	53000	1555
+2	sissd	asdfa	asss	34445	10
+2	clas	ssld	lasds	34555	11
+3	i7	8nucleo	50mbdecache	5454	15
+4	720	asd	dasf	5454	55
+5	asdf	ffff	sssss	54545	655
+6	asdf	asas	ssssd	54655	333
+7	sd	700	asds	5454	65
+8	impresora	tinta	20ppm,colornegro	345	15
+9	protector	individual	8tomas	3545	3
